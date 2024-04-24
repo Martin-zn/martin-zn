@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hola !
 
-<!--
-**Martin-zn/martin-zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Soy un programador backend junior con experiencia en Java Spring Boot, Python, JavaScript y React. Actualmente, me encuentro en el proceso de convertirme en un desarrollador fullstack.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Antes de adentrarme en el mundo del desarrollo de software, obtuve un título como Tecnólogo en Construcción y trabajé como administrador de proyectos de construcción. Esta experiencia me brindó habilidades valiosas en gestión de proyectos, resolución de problemas y trabajo en equipo.
+
+Posteriormente, descubrí mi pasión por la programación y decidí emprender un nuevo camino profesional. Desde entonces, he estado estudiando y trabajando arduamente para mejorar mis habilidades en diferentes tecnologías, con un enfoque principal en el desarrollo backend.
+
+## Habilidades
+
+- **Backend**: Java, Spring Boot, Python Django
+- **Frontend**: JavaScript, React
+- **Bases de Datos**: MySQL, PL/SQL Oracle
+- **Herramientas**: Git
+
+
+## Contacto
+
+Si estás interesado(a) en colaborar en un proyecto o simplemente deseas conversar sobre desarrollo de software, no dudes en ponerte en contacto conmigo a través de martinzuniganu@gmail.com o visita mi perfil de https://www.linkedin.com/in/martin-zu%C3%B1iga-nu%C3%B1ez/.
+
+¡Saludos!
