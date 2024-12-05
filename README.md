@@ -1,6 +1,6 @@
 ## Hola !
 
- Soy un programador backend junior con experiencia en Java Spring Boot, Python, JavaScript y React. Actualmente, me encuentro en el proceso de convertirme en un desarrollador fullstack.
+ Soy un programador backend junior con experiencia en Java Spring Boot, Python, JavaScript con React y PHP con Laravel. Soy un desarrollador fullstack.
 
 ## Acerca de mí
 
